@@ -1,5 +1,5 @@
 function calculateAge() {
-    var age;
+	var age;
 	var elem;
 						
 	age = document.getElementById("numb").value;
@@ -25,5 +25,5 @@ function calculateAge() {
 		}
 	
 		elem.style.color = "lime";		
-    }
+    	}
 }
